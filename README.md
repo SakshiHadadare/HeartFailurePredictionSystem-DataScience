@@ -107,3 +107,6 @@ Once the script is running, you will see a Tkinter window where you can input th
 - Time  
 After entering the values and clicking "Predict", the application will display a message indicating whether the patient is at risk of heart failure.
 
+##License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
