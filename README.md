@@ -87,9 +87,9 @@ A simple GUI is created using Tkinter to make the system user-friendly. The GUI 
 The GUI displays the result, indicating whether the patient is at risk of heart failure or not.
 
 ## Features
-Data Collection and Analysis: Utilizes the heart failure clinical records dataset for analysis.
-Model Training: Implements a Support Vector Machine (SVM) classifier to predict heart failure.
-Graphical User Interface (GUI): Provides an interactive Tkinter-based interface for user input and prediction.
+- Data Collection and Analysis: Utilizes the heart failure clinical records dataset for analysis.
+- Model Training: Implements a Support Vector Machine (SVM) classifier to predict heart failure.
+- Graphical User Interface (GUI): Provides an interactive Tkinter-based interface for user input and prediction.
 ## Example
 Once the script is running, you will see a Tkinter window where you can input the following details:
 
