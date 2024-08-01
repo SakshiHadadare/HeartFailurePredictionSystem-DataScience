@@ -106,7 +106,16 @@ Once the script is running, you will see a Tkinter window where you can input th
 - Smoking
 - Time  
 After entering the values and clicking "Predict", the application will display a message indicating whether the patient is at risk of heart failure.
+## Usage
+To use the Heart Failure Prediction System, follow these steps:
 
-##License
+- Clone the Repository:  
+`git clone https://github.com/your-username/heart-failure-prediction.git`
+- Navigate to the Project Directory:  
+`cd heart-failure-prediction`
+- Run the GUI Application:  
+`python main.py`
+
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
